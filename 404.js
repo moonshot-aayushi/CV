@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Layout from 'components/Layout';
-import Container from 'components/Container';
+import Layout from './Layout';
+import Container from './Container';
 
 const NotFoundPage = () => {
   return (
