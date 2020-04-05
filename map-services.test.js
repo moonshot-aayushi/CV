@@ -1,4 +1,4 @@
-import { getMapServices, getMapServiceByName } from 'lib/map-services';
+import { getMapServices, getMapServiceByName } from './map-services';
 
 describe( 'lib::map-services', () => {
   describe( 'getMapServices', () => {
