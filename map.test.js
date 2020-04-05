@@ -1,4 +1,4 @@
-import { promiseToFlyTo } from 'lib/map';
+import { promiseToFlyTo } from './map';
 
 const LOCATION = {
   lat: 38.9072,
